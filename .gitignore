@@ -1,0 +1,47 @@
+# Build
+build/
+bin/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.user
+*.opensdf
+*.sdf
+*.suo
+*.ncb
+*.log
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.aps
+*.pch
+*.tlog
+*.lastbuildstate
+*.ipch
+*.iobj
+*.ipdb
+*.db
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Shaders
+shaders/*.spv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.exe
+*.dll
+*.lib
+*.exp
+*.out
+*.app
+*.pyc
+__pycache__/
